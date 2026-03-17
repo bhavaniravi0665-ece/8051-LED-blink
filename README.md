@@ -39,6 +39,9 @@ void main()
     }
 }
 
-=[## ▶️ Output
-LED blinks continuously.
+## ▶️ Output
+LED blinks continuously
+
+## 📷 Circuit Diagram
+![Circuit](circuit.png)
 
